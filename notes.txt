@@ -1,0 +1,36 @@
+Shipengine API handle All Failure and sucess cases
+
+200
+400
+404
+500
+Relevent All message should be displayed same as shipengine API
+
+Data ingeging
+Data Processing 
+
+-------------------------------------------------------------
+10/10/2024
+Lambda function
+logger info obj --> print--> 
+
+Error and Status code handling 
+-----------
+
+
+
+
+Dashboard
+Alarm
+
+----------------------------------------
+
+Negative number should not be allowed for X Tick (Hrs)
+Stabilization , Report Duration
+
+Report duration should be Value of ‘Duration (Hrs)’ but but floored to the nearest integer. So 146.203 should go to 146.
+
+
+----------------------------------
+
+location
